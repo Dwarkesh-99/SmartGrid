@@ -1,0 +1,14 @@
+C:\Users\dwark\source\repos\SmartGrid\bin\Debug\net7.0\SmartGrid.deps.json
+C:\Users\dwark\source\repos\SmartGrid\bin\Debug\net7.0\SmartGrid.runtimeconfig.json
+C:\Users\dwark\source\repos\SmartGrid\bin\Debug\net7.0\SmartGrid.gha
+C:\Users\dwark\source\repos\SmartGrid\bin\Debug\net7.0\SmartGrid.pdb
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net7.0\SmartGrid.csproj.AssemblyReference.cache
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net7.0\SmartGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net7.0\SmartGrid.AssemblyInfoInputs.cache
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net7.0\SmartGrid.AssemblyInfo.cs
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net7.0\SmartGrid.csproj.CoreCompileInputs.cache
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net7.0\SmartGrid.gha
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net7.0\refint\SmartGrid.gha
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net7.0\SmartGrid.pdb
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net7.0\SmartGrid.genruntimeconfig.cache
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net7.0\ref\SmartGrid.gha

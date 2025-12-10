@@ -1,0 +1,9 @@
+C:\Users\dwark\source\repos\SmartGrid\bin\Debug\net48\SmartGrid.gha
+C:\Users\dwark\source\repos\SmartGrid\bin\Debug\net48\SmartGrid.pdb
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net48\SmartGrid.csproj.AssemblyReference.cache
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net48\SmartGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net48\SmartGrid.AssemblyInfoInputs.cache
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net48\SmartGrid.AssemblyInfo.cs
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net48\SmartGrid.csproj.CoreCompileInputs.cache
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net48\SmartGrid.gha
+C:\Users\dwark\source\repos\SmartGrid\obj\Debug\net48\SmartGrid.pdb
