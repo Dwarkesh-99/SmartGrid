@@ -13,13 +13,13 @@ It is implemented as a Grasshopper plugin in C# (.NET Framework) and compiled as
 
 ### All Mode – Full Grid
 
-![SmartGrid All Mode](images/smartgrid_all.png)
+![SmartGrid All Mode](images/Grid_All.png)
 
 > All interior and boundary points are generated.
 
 ### Border Mode – Frame Only
 
-![SmartGrid Border Mode](images/smartgrid_border.png)
+![SmartGrid Border Mode](images/Grid_Border.png)
 
 > Only the outer border points (first/last row and first/last column) are generated.
 
